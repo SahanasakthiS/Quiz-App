@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: "What is the purpose of React?",
+        option1: "Server-side scripting",
+        option2: "Styling web pages",
+        option3: "Building user interfaces",
+        option4: "Managing databases",
+        ans: 3,
+    },
+    {
+        question: "Which method is used to create a functional component in React?",
+        option1: "class",
+        option2: "function",
+        option3: "createComponent()",
+        option4: "Component.new()",
+        ans: 2,
+    },
+    {
+        question: "What does JSX stand for?",
+        option1: "Java Syntax Extension",
+        option2: "JavaScript XML",
+        option3: "JavaScript and XHTML",
+        option4: "JSON and XML",
+        ans: 2,
+    },
+    {
+        question:"Which hook is used to manage state in a functional component?",
+        option1: "useEffect()",
+        option2: "useState()",
+        option3: "useContext()",
+        option4: "useRef()",
+        ans: 2,
+    },
+    {
+        question:"How do you pass data from a parent component to a child component in React?",
+        option1: "Using state",
+        option2: "Using hooks",
+        option3: "Using render()",
+        option4: "Using props",
+        ans: 4,
+    },
+];
